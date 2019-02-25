@@ -1,0 +1,10 @@
+[caps]
+platformName = "Android"
+deviceName = "Nexus 5"
+udid = "06520d0323b7a862"
+appActivity = ".ui.ConversationListActivity"
+appPackage = "com.google.android.apps.messaging"
+autoGrantPermissions = true
+default = true
+
+
